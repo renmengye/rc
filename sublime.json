@@ -1,0 +1,19 @@
+{
+  "WrapPlus.break_long_words": false,
+  "WrapPlus.break_on_hyphens": false,
+  "color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+  "ensure_newline_at_eof_on_save": true,
+  "font_face": "Menlo",
+  "font_size": 14,
+  "ignored_packages":
+  [
+  ],
+  "rulers":
+  [
+    79
+  ],
+  "show_minimap": false,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "wrap_width": 80
+}
